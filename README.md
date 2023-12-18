@@ -1,5 +1,9 @@
 <h1 align="center"><b>Hi , I'm Sergio Mesa 👋</b></h1>
 
+<p align="center">
+  ![result](https://github.com/SergioSm12/sergioSm12/assets/61945004/57ad9693-c789-4381-9bbb-97421f444ecf)
+</p>
+
 <!--
 **SergioSm12/sergioSm12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
