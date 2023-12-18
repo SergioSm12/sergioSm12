@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center"><b>Hi , I'm Sergio Mesa 👋</b></h1>
 
 <!--
 **SergioSm12/sergioSm12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
