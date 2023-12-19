@@ -3,9 +3,12 @@
 <p align="center"> 
 <img src="https://github.com/SergioSm12/sergioSm12/assets/61945004/377a1659-b571-4703-a4c9-76fc6000c548">
 </p>
-<br/>
+
+<br>
+
  <picture><img src = "https://github.com/SergioSm12/sergioSm12/assets/61945004/f791c364-ba92-40d0-8497-d880acfa0497" width = 50px></picture> About me
-<br/>
+
+<br>
 
 - Graduated in Systems Engineering with focus on backend development, excelling in Java and Spring Boot.
 
