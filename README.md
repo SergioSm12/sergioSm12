@@ -105,7 +105,8 @@
 ![linkedin](https://img.shields.io/badge/Linkedin-Sergio_Mesa-0A66C2?style=for-the-badge&logo=linkedin)
   
 </a>
- </a>
+
+
 </ul>
  
 </div>
