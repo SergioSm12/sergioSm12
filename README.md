@@ -65,20 +65,48 @@
      ![Trello](https://img.shields.io/badge/Trello-Agile_Methodologies-0052CC?style=for-the-badge&logo=trello)
   ![Slack](https://img.shields.io/badge/Slack-Agile_Methodologies-4A154B?style=for-the-badge&logo=slack)
   
-
 </p>
+
+<br>
+<br>
+
+<hr>
+
+ <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
  
-<!--
-**SergioSm12/sergioSm12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+<a href="https://github.com/SergioSm12/">
+  <img src="https://github-readme-stats.vercel.app/api?username=SergioSm12&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+ 
+ <br>
+ 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SergioSm12&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="SergioSm12"/>
+
+</a>
+
+
+
+</div>
+
+<hr>
+
+<b> Contact me.</b><img src="https://github.com/SergioSm12/sergioSm12/assets/61945004/cae827cd-cb25-4139-8626-1b2ab8b23899" width ="80">
+<br>
+<div align='left'>
+
+<ul>
+ <a href="www.linkedin.com/in/sergio-david-mesa-buitrago-184a33218">
+
+![linkedin](https://img.shields.io/badge/Linkedin-Sergio_Mesa-0A66C2?style=for-the-badge&logo=linkedin)
+  
+</a>
+ </a>
+</ul>
+ 
+</div>
+
