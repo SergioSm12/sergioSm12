@@ -1,7 +1,9 @@
 <h1 align="center"><b>Hi , I'm Sergio Mesa 👋</b></h1>
 
 <p align="center">
-<img src="https://github.com/SergioSm12/sergioSm12/assets/61945004/57ad9693-c789-4381-9bbb-97421f444ecf">
+  
+<img src="https://github.com/SergioSm12/sergioSm12/assets/61945004/377a1659-b571-4703-a4c9-76fc6000c548">
+
 </p>
 
 <!--
