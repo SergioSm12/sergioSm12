@@ -8,6 +8,7 @@
 
  <picture><img src = "https://github.com/SergioSm12/sergioSm12/assets/61945004/f791c364-ba92-40d0-8497-d880acfa0497" width = 50px></picture> About me
 
+<br><br>
 
 - Graduated in Systems Engineering with focus on backend development, excelling in Java and Spring Boot.
 
@@ -21,7 +22,8 @@
 <hr>
 
  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Skills<b>
-<br>
+
+<br><br>
 
 <p align="center">
  
