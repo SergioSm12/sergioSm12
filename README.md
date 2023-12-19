@@ -100,7 +100,7 @@
 <div align='left'>
 
 <ul>
- <a href="www.linkedin.com/in/sergio-david-mesa-buitrago-184a33218">
+ <a href="https://www.linkedin.com/in/sergio-david-mesa-buitrago-184a33218/">
 
 ![linkedin](https://img.shields.io/badge/Linkedin-Sergio_Mesa-0A66C2?style=for-the-badge&logo=linkedin)
   
